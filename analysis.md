@@ -1,3 +1,10 @@
+## App Structure
+### accounts
+### courses
+
+
+## Model Structure
+
 ### Profile
 - **User**
 - name
